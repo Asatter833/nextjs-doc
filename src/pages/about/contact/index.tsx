@@ -6,6 +6,7 @@ export default function Contact() {
       THis is a contact inside a about page routing test
       <br />
       <Contact2 />
+      Testing repo
     </>
   );
 }
