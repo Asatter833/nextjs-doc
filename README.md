@@ -3,15 +3,15 @@
 table of contents
 
 - [Server Side Rendering](#server-side-rendering)
-  - [**How SSR works**](#--how-ssr-works--)
-  - [**Benefits of SSR**](#--benefits-of-ssr--)
-  - [**Drawbacks of SSR**](#--drawbacks-of-ssr--)
-  - [**Implementing SSR**](#--implementing-ssr--)
+  - [How SSR works](#how-ssr-works)
+  - [Benefits of SSR](#benefits-of-ssr)
+  - [Drawbacks of SSR](#rawbacks-of-ssr)
+  - [Implementing SSR](#implementing-ssr)
 - [SSR: Server-Side Rendering With Next.js](#ssr--server-side-rendering-with-nextjs)
-- [\***\*SSG: Static-site generation\*\***](#----ssg--static-site-generation----)
+- [SSG: Static-site generation](#ssg--static-site-generation)
 - [Dynamic routing in Next.js](#dynamic-routing-in-nextjs)
-- [\***\*CSR: Client-side data fetching\*\***](#----csr--client-side-data-fetching----)
-- [**References:**](#--references---)
+- [CSR: Client-side data fetching](#csr--client-side-data-fetching)
+- [References](#references)
 
 # Server Side Rendering
 
