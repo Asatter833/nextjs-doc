@@ -357,9 +357,6 @@ In this example, **`fetchData`** fetches data from an API using the **`fetch`** 
 
 </aside>
 
-<aside>
 ➡️ [**Abdullah Al Noman**](https://github.com/tam11a)
 
-</aside>
-
-[ChatGPT](https://chat.openai.com/chat)
+[**ChatGPT**](https://chat.openai.com/chat)
