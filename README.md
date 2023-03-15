@@ -330,33 +330,18 @@ In this example, **`fetchData`** fetches data from an API using the **`fetch`** 
 
 # **References:**
 
-<aside>
-➡️ ****[SSR: Server-side rendering**** Learn more about server-side rendering in Next.js with getServerSideProps.](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
+➡️ **[SSR: Server-side rendering** Learn more about server-side rendering in Next.js with getServerSideProps.](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
 
-</aside>
+➡️ [**SSG: Static-site generation** Learn more about static site generation in Next.js with getStaticProps.](https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
 
-<aside>
-➡️ ****[SSG: Static-site generation**** Learn more about static site generation in Next.js with getStaticProps.](https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
+➡️ [**Dynamic routing** Learn more about dynamic routing in Next.js with getStaticPaths.](https://nextjs.org/docs/basic-features/data-fetching/get-static-paths)
 
-</aside>
-
-<aside>
-➡️ ****[Dynamic routing**** Learn more about dynamic routing in Next.js with getStaticPaths.](https://nextjs.org/docs/basic-features/data-fetching/get-static-paths)
-
-</aside>
-
-<aside>
-➡️ ****[CSR: Client-side rendering**** Learn more about client-side rendering in Next.js with SWR.](https://nextjs.org/docs/basic-features/data-fetching/client-side)
-
-</aside>
+➡️ [**CSR: Client-side rendering** Learn more about client-side rendering in Next.js with SWR.](https://nextjs.org/docs/basic-features/data-fetching/client-side)
 
 **More help from:**
 
-<aside>
 ➡️ [**Tam11a**](https://github.com/tam11a)
-
-</aside>
 
 ➡️ [**Abdullah Al Noman**](https://github.com/tam11a)
 
-[**ChatGPT**](https://chat.openai.com/chat)
+➡️ [**ChatGPT**](https://chat.openai.com/chat)
