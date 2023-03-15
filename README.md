@@ -330,13 +330,17 @@ In this example, **`fetchData`** fetches data from an API using the **`fetch`** 
 
 # **References:**
 
-➡️ **[SSR: Server-side rendering** Learn more about server-side rendering in Next.js with getServerSideProps.](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
+➡️ [**SSR: Server-side rendering**
+Learn more about server-side rendering in Next.js with getServerSideProps.](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
 
-➡️ [**SSG: Static-site generation** Learn more about static site generation in Next.js with getStaticProps.](https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
+➡️ [**SSG: Static-site generation**
+Learn more about static site generation in Next.js with getStaticProps.](https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
 
-➡️ [**Dynamic routing** Learn more about dynamic routing in Next.js with getStaticPaths.](https://nextjs.org/docs/basic-features/data-fetching/get-static-paths)
+➡️ [**Dynamic routing**
+Learn more about dynamic routing in Next.js with getStaticPaths.](https://nextjs.org/docs/basic-features/data-fetching/get-static-paths)
 
-➡️ [**CSR: Client-side rendering** Learn more about client-side rendering in Next.js with SWR.](https://nextjs.org/docs/basic-features/data-fetching/client-side)
+➡️ [**CSR: Client-side rendering**
+Learn more about client-side rendering in Next.js with SWR.](https://nextjs.org/docs/basic-features/data-fetching/client-side)
 
 **More help from:**
 
