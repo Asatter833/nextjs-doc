@@ -330,16 +330,16 @@ In this example, **`fetchData`** fetches data from an API using the **`fetch`** 
 
 # **References:**
 
-➡️ [**SSR: Server-side rendering**
+➡️ [**SSR: Server-side rendering**<br/>
 Learn more about server-side rendering in Next.js with getServerSideProps.](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
 
-➡️ [**SSG: Static-site generation**
+➡️ [**SSG: Static-site generation**<br/>
 Learn more about static site generation in Next.js with getStaticProps.](https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
 
-➡️ [**Dynamic routing**
+➡️ [**Dynamic routing**<br/>
 Learn more about dynamic routing in Next.js with getStaticPaths.](https://nextjs.org/docs/basic-features/data-fetching/get-static-paths)
 
-➡️ [**CSR: Client-side rendering**
+➡️ [**CSR: Client-side rendering**<br/>
 Learn more about client-side rendering in Next.js with SWR.](https://nextjs.org/docs/basic-features/data-fetching/client-side)
 
 **More help from:**
