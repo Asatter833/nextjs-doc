@@ -2,6 +2,17 @@
 
 table of contents
 
+- [Server Side Rendering](#server-side-rendering)
+  - [**How SSR works**](#--how-ssr-works--)
+  - [**Benefits of SSR**](#--benefits-of-ssr--)
+  - [**Drawbacks of SSR**](#--drawbacks-of-ssr--)
+  - [**Implementing SSR**](#--implementing-ssr--)
+- [SSR: Server-Side Rendering With Next.js](#ssr--server-side-rendering-with-nextjs)
+- [\***\*SSG: Static-site generation\*\***](#----ssg--static-site-generation----)
+- [Dynamic routing in Next.js](#dynamic-routing-in-nextjs)
+- [\***\*CSR: Client-side data fetching\*\***](#----csr--client-side-data-fetching----)
+- [**References:**](#--references---)
+
 # Server Side Rendering
 
 Server-side rendering (SSR) is a technique used in web development where a web page is rendered on the server and then sent to the client as HTML, rather than the client-side rendering approach of sending a blank HTML page and then populating it with data using JavaScript. This approach has several benefits, including improved performance, better search engine optimization, and improved user experience.
